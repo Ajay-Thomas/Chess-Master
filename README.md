@@ -1,5 +1,4 @@
 # Chess
 
-This is chess game which  allow computer to think and play
+This is chess game built using Alpha Beta pruning algorithm to allow the computer to choose its move and play.
 
-Artificial algorithm is alpha-beta 
